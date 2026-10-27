@@ -1,0 +1,10 @@
+{
+  "name": "freelancer-tracker-workspace",
+  "version": "1.0.0",
+  "description": "Freelance Client & Project Tracker with Google Gemini AI Proposal Writer",
+  "scripts": {
+    "dev:server": "cd server && npm run dev",
+    "dev:client": "cd client && npm run dev",
+    "start": "cd server && npm start"
+  }
+}
